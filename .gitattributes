@@ -1,0 +1,5 @@
+real-sim filter=lfs diff=lfs merge=lfs -text
+*.binary filter=lfs diff=lfs merge=lfs -text
+gissete_scale filter=lfs diff=lfs merge=lfs -text
+gisette_scale filter=lfs diff=lfs merge=lfs -text
+gesette* filter=lfs diff=lfs merge=lfs -text
